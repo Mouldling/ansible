@@ -8,3 +8,7 @@
       - neofetch
       - keepassx
       - curl
+      - mkdocs
+      - mkdocs-bootswatch
+      - mkdocs-bootstrap
+      - mkdocs-doc
