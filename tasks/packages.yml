@@ -12,3 +12,4 @@
       - mkdocs-bootswatch
       - mkdocs-bootstrap
       - mkdocs-doc
+      - retext
