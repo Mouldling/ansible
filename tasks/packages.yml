@@ -4,12 +4,13 @@
       - htop
       - tmux
       - variety
-      - filezilla
-      - neofetch
-      - keepassx
+      - filezilla                  # file transfer gui
+      - neofetch                   # system information
+      - keepassx                   # key manager
       - curl
-      - mkdocs
-      - mkdocs-bootswatch
-      - mkdocs-bootstrap
-      - mkdocs-doc
-      - retext
+      - mkdocs                     # mkdocs markdown documentation generator
+      - mkdocs-bootswatch          # mkdocs bootswatch themes
+      - mkdocs-bootstrap           # mkdocs bootstrap themes
+      - mkdocs-doc                 # mkdocs html documentation
+      - retext                     # mkdocs gui editor
+      - gparted                    # partition editor
