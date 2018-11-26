@@ -2,6 +2,7 @@
     apt: name={{item}}
     with_items:
       - htop
+      - putty
       - tmux
       - variety
       - filezilla                  # file transfer gui
